@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.ouy.println( "The standard thing to say here is: Hello World!" );
+        System.out.println( "The standard thing to say here is: Hello World!" );
     }
 }
